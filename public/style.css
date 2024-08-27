@@ -1,0 +1,80 @@
+@charset "UTF-8";
+@-ms-viewport {
+  width: device-width;
+}
+/* @font-face {
+  src: url("/fonds/Urbanist-Black.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-BlackItalic.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-Bold.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-BoldItalic.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-ExtraBold.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-ExtraBoldItalic.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-ExtraLight.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-ExtraLightItalic.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-Italic.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-Light.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-LightItalic.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-Medium.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-MediumItalic.ttf");
+  font-family: "Urbanist";
+} */
+@font-face {
+  src: url(fonds/Urbanist-Regular.ttf);
+  font-family: "Urbanist";
+}
+/* @font-face {
+  src: url("/fonds/Urbanist-SemiBold.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-SemiBoldItalic.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-Thin.ttf");
+  font-family: "Urbanist";
+}
+@font-face {
+  src: url("/fonds/Urbanist-ThinItalic.ttf");
+  font-family: "Urbanist";
+} */
+
+* {
+  font-family: "Urbanist";
+}
